@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 16 12:47:57 2023
 
-@author: student
-"""
-
-# C
 
 def wyswietl_parzyste(liczby):
     if len(liczby) != 11:
@@ -16,4 +9,6 @@ def wyswietl_parzyste(liczby):
             print(liczba)
 
 # Test funkcji
+
+
 wyswietl_parzyste(list(range(11)))

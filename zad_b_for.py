@@ -1,13 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 16 12:47:34 2023
-
-@author: student
-"""
-
-# B
-
-# wersja z for'em
 
 def pomnoz_przez_dwa_z_for(lista_liczb):
     nowa_lista = []
@@ -16,6 +6,9 @@ def pomnoz_przez_dwa_z_for(lista_liczb):
     return nowa_lista
 
 # sprawdzenie czy działa
+
+
 lista_liczb = [10, 11, 55, 47, 33]
+
 wynik_for = pomnoz_przez_dwa_z_for(lista_liczb)
 print(wynik_for)
